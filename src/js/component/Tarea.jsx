@@ -92,9 +92,9 @@ const Tarea = () => {
 
 
     return (
-    <div>
+    <div className='mt-5'>
     
-            <h1>TODO LIST</h1>
+            <h1 className='pt-5'>TODO LIST</h1>
             <div className='container' id='container-lista'>
             <div className='' id='container-input'> 
             <input  className="mt-4" type="text" onKeyDown={enter} placeholder='Algo para anotar?' />

@@ -30,6 +30,7 @@ body{
     -webkit-box-shadow:0px 0px 85px 31px rgb(100, 100, 100);
 -moz-box-shadow: 0px 0px 85px 31px rgb(250, 250, 250);
 box-shadow: 0px 0px 85px 31px rgb(192, 189, 189);
+border: 1px solid black;
 }
 
 
@@ -90,10 +91,10 @@ li{
         font-family: 'poppins',sans-serif;
         font-weight: 900;
         font-size: 100px;
-        color:rgb(26, 21, 21);
         margin-top: 20px;
-        text-shadow:rgba(104, 99, 99, 0.9) 0px 0px 20px ;
-
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 4px;
+        
       }
 
 #poke{
