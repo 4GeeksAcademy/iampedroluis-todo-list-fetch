@@ -39,7 +39,7 @@ border: 1px solid black;
 li{
     text-decoration: none;
     list-style: none;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 300;
     color:rgb(30, 30, 31)
 }
@@ -131,3 +131,5 @@ li{
       ::-ms-input-placeholder { /* Microsoft Edge */
        color: rgb(49, 49, 49);
       }
+
+  
